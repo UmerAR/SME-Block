@@ -14,12 +14,12 @@ Heres some Videos to help you:
 <details>
 <summary>For Chrome</summary>
 <br>
-This is how you dropdown.
+Coming Soon!
 </details>
 <details>
 <summary>For Edge</summary>
 <br>
-This is how you dropdown.
+Coming Soon!
 </details>
 
 ## Authors
