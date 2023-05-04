@@ -20,7 +20,7 @@ Coming Soon!
 <summary>For Edge</summary>
 <br>
 
-[Edge1](https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Screenshot%202023-05-03%20215157.png)
+![Edge1](https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge1.png "Edge1")
 </details>
 
 ## Authors
