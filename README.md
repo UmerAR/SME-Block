@@ -17,11 +17,9 @@ Heres some Videos to help you:
 Coming Soon!
 </details>
 <details>
-<summary>For Edge</summary>
-<br>
-- Step 1
-![Edge1](https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge1.png "Edge1")
-- Step 2
+<details>
+  <summary>For Edge</summary>
+  <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge1.png" alt="Edge 1">
 </details>
 
 ## Authors
