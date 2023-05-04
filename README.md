@@ -25,7 +25,9 @@ Coming Soon!
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge3.png" alt="Edge-3">
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge4.png" alt="Edge-4">
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge5.png" alt="Edge-5">
+  After pressing Load Unpacked select the folder you downloaded, and your Done!
 </details>
+
 
 ## Authors
 
