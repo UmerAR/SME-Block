@@ -1,12 +1,14 @@
 # SME-Block
-
-Automatically deletes the local storage from Save My exams to stop it from asking you to pay once you've reached a certain number of pages visited.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/LogoSMEBlock.png" width="128" />
+</p>
+Automatically deletes the local storage from Save My exams to stop it from asking you to pay once you have reached a certain number of pages visited.
 
 ## Instructions
 
 ### Installation
 
-Go to the [releases](https://github.com/UmerAR/SME-Block/releases) tab and download the file **AutoClear.rar**, After installation extract the file and put the folder on your desktop or wherever you would like to store it, just make sure you remember where you put it.
+Go to the [releases](https://github.com/UmerAR/SME-Block/releases) tab and download the file **.rar**, After installation extract the file and put the folder on your desktop or wherever you would like to store it, just make sure you remember where you put it.
 
 After you are done installing, open your browser of choice and head to the manage extensions tab, enable developer mode and click on load unpacked. After that select the folder which you just downloaded and press Select Folder. And Your Done!
 
@@ -59,7 +61,7 @@ Unless Save My Exams make this solution obselete, I will probably not upload any
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/ChromeUpdate1.png" alt="ChromeUpdate-1">
   Click Remove Again
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/ChromeUpdate2.png" alt="ChromeUpdate-2">
-  And now you will have to go to the [releases](https://github.com/UmerAR/SME-Block/releases) and install the latest .rar file available.
+  And now you will have to go to the <a href="https://github.com/UmerAR/SME-Block/releases">releases</a> and install the latest .rar file available.
   Then you can follow the Installation instructions above and install the updated extension.
 
 </details>
@@ -73,6 +75,12 @@ Unless Save My Exams make this solution obselete, I will probably not upload any
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge2.png" alt="Edge-2">
   Click on Extensions
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge3.png" alt="Edge-3">
+  Click Remove
+  <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/EdgeUpdate1.png" alt="EdgeUpdate-1">
+  Click Remove Again
+  <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/EdgeUpdate2.png" alt="EdgeUpdate-2">
+    And now you will have to go to the <a href="https://github.com/UmerAR/SME-Block/releases">releases</a> and install the latest .rar file available.
+  Then you can follow the Installation instructions above and install the updated extension.
 
 </details>
 
