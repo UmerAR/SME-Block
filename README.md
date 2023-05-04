@@ -19,9 +19,15 @@ Coming Soon!
 
 <details>
   <summary>For Edge</summary>
-  <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge1.png" alt="Edge 1">
+  <br>
+  <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge1.png" alt="Edge-1">
+  <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge2.png" alt="Edge-2">
+  <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge3.png" alt="Edge-3">
+  <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge4.png" alt="Edge-4">
+  <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge5.png" alt="Edge-5">
 </details>
 
 ## Authors
 
 - [@UmerAR](https://github.com/UmerAR)
+
