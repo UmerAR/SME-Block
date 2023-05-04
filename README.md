@@ -20,7 +20,7 @@ Coming Soon!
 <summary>For Edge</summary>
 <br>
 - Step 1
--- ![Edge1](https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge1.png "Edge1")
+![Edge1](https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge1.png "Edge1")
 - Step 2
 </details>
 
