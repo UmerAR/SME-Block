@@ -1,0 +1,19 @@
+{
+  "name": "SME-Block",
+  "version": "1.1",
+  "manifest_version": 3,
+  "description": "Automatically deletes Local Storage on Save My Exams.",
+  "permissions": ["storage", "tabs"],
+  "icons": {
+    "16": "img/Logo16.png",
+    "32": "img/Logo32.png",
+    "48": "img/Logo48.png",
+    "128": "img/Logo128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.savemyexams.co.uk/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
