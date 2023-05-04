@@ -19,8 +19,9 @@ Coming Soon!
 <details>
 <summary>For Edge</summary>
 <br>
-
-![Edge1](https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge1.png "Edge1")
+- Step 1
+-- ![Edge1](https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge1.png "Edge1")
+- Step 2
 </details>
 
 ## Authors
