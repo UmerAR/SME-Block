@@ -16,7 +16,7 @@ Heres some Videos to help you:
 <br>
 Coming Soon!
 </details>
-<details>
+
 <details>
   <summary>For Edge</summary>
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge1.png" alt="Edge 1">
