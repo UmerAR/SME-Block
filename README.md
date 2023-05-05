@@ -12,6 +12,7 @@ Go to the [releases](https://github.com/UmerAR/SME-Block/releases) tab and downl
 
 After you are done installing, open your browser of choice and head to the manage extensions tab, enable developer mode and click on load unpacked. After that select the folder which you just downloaded and press Select Folder. And Your Done!
 
+
 Heres some Images to help you:
 <details>
   <summary>For Chrome</summary>
@@ -44,6 +45,14 @@ Heres some Images to help you:
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/Edge5.png" alt="Edge-5">
   After pressing Load Unpacked select the folder you downloaded, and your Done!
 </details>
+
+### Extracting
+If you dont know how to extract just follow this:
+- Right click your .zip file
+- Select Extract All
+- A window will open asking you where to put the folder, Click Browser and you can select desktop or anyother location where you want to keep the folder.
+- Click Extract
+- Now follow the Installation guide to install it.
 
 ### Updating
 Unless Save My Exams make this solution obselete, I will probably not upload any updates. But in the rare case that there is a newer version available, heres how to update your extension:
