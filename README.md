@@ -61,7 +61,7 @@ Unless Save My Exams make this solution obselete, I will probably not upload any
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/ChromeUpdate1.png" alt="ChromeUpdate-1">
   Click Remove Again
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/ChromeUpdate2.png" alt="ChromeUpdate-2">
-  And now you will have to go to the <a href="https://github.com/UmerAR/SME-Block/releases">releases</a> and install the latest .rar file available.
+  And now you will have to go to the <a href="https://github.com/UmerAR/SME-Block/releases">releases</a> and install the latest .zip file available.
   Then you can follow the Installation instructions above and install the updated extension.
 
 </details>
@@ -79,7 +79,7 @@ Unless Save My Exams make this solution obselete, I will probably not upload any
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/EdgeUpdate1.png" alt="EdgeUpdate-1">
   Click Remove Again
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/EdgeUpdate2.png" alt="EdgeUpdate-2">
-    And now you will have to go to the <a href="https://github.com/UmerAR/SME-Block/releases">releases</a> and install the latest .rar file available.
+    And now you will have to go to the <a href="https://github.com/UmerAR/SME-Block/releases">releases</a> and install the latest .zip file available.
   Then you can follow the Installation instructions above and install the updated extension.
 
 </details>
