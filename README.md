@@ -8,7 +8,7 @@ Automatically deletes the local storage from Save My exams to stop it from askin
 
 ### Installation
 
-Go to the [releases](https://github.com/UmerAR/SME-Block/releases) tab and download the file **.rar**, After installation extract the file and put the folder on your desktop or wherever you would like to store it, just make sure you remember where you put it.
+Go to the [releases](https://github.com/UmerAR/SME-Block/releases) tab and download the file **.zip**, After installation extract the file and put the folder on your desktop or wherever you would like to store it, just make sure you remember where you put it.
 
 After you are done installing, open your browser of choice and head to the manage extensions tab, enable developer mode and click on load unpacked. After that select the folder which you just downloaded and press Select Folder. And Your Done!
 
