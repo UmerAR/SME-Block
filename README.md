@@ -3,6 +3,8 @@
   <img src="https://raw.githubusercontent.com/UmerAR/SME-Block/main/images/LogoSMEBlock.png" width="128" />
 </p>
 Automatically deletes the local storage from Save My exams to stop it from asking you to pay once you have reached a certain number of pages visited.
+<br>
+<b>NOTE: AFTER INSTALLATION AND SETUP IF THE MESSAGE FOR PAYING STILL COMES JUST RELOAD THE PAGE, HAPPY STUDYING :)</b>
 
 ## Instructions
 
